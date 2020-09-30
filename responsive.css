@@ -1,0 +1,8 @@
+@media screen and (max-width: 550px){
+    .h1{
+      color: #000
+    }
+    .parrafo{
+      font-weight: bold
+    }
+}
